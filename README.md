@@ -57,8 +57,6 @@
 
 ### 🌐 Connect With Me
 
-If you want to discuss technology, interesting projects, or just make a new friend, feel free to reach out to me via:
-
 <p align="left">
   <a href="mailto:buicaovinh5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -72,6 +70,3 @@ If you want to discuss technology, interesting projects, or just make a new frie
 </p>
 
 ---
-
-### Fun Fact
-*My very first code might have been full of bugs, but now... I know how to use Docker to containerize those bugs and ship them to someone else's machine!* <br/>
