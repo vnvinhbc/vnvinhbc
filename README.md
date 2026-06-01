@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Vinh%20Cao!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </div>
 <p align="center">
-  A passionate Web Developer from Vietnam 🇻🇳, eager to build seamless applications and systems. Currently honing my skills at <b>Hanoi University of Science and Technology (HUST)</b>.
+  A passionate Software Developer from Vietnam 🇻🇳, eager to build seamless applications and systems. Currently honing my skills at <b>Hanoi University of Science and Technology (HUST)</b>.
 </p>
 
 ---
